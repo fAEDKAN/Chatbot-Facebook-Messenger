@@ -1,0 +1,17 @@
+{
+  "name": "facebook-messenger-bot",
+  "version": "1.0.0",
+  "description": "A simple chatbot for Facebook Messenger to use in my 3D printing business.",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fAEDKAN",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "request": "^2.88.2"
+  }
+}
